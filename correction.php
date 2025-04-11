@@ -20,9 +20,9 @@
   <main class="container">
     <h1>Résultats du quiz</h1>
     
-    <!-- afficher le score -->
+    <!-- Affiche le score -->
 
-    <!-- ajouter des boutons pour recommencer le quiz ou le réinitialiser -->
+    <!-- Ajoute des boutons pour recommencer le quiz ou le réinitialiser -->
 
   </main>
 </body>
