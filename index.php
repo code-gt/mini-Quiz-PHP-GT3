@@ -18,7 +18,7 @@
     <?php
 
      if (isset($_COOKIE['prenom'])) {
-       // Tu affiches le message de bienvenue echo
+       // Tu affiches le message de bienvenue
     } else {
       // si la variable $_POST content le prénom est définie :
         // Crée le cookie
