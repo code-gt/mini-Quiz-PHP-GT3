@@ -25,7 +25,7 @@
         // Redirige avec header("Location: index.php");
         exit; // Utiliser ici exit; empêche la suite du code de s'exécuter
       ?>
-    <!-- Crée le formulaiure simple pour récupérerle prénom -->
+    <!-- Crée un formulaire simple pour récupérer le prénom -->
       <form>
         
       </form>
