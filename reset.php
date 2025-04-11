@@ -1,8 +1,8 @@
 <?php
-// Démarrer la session
+// Démarre la session
 
-// Stopper la session
+// Stoppe la session
 
-// Rediriger vers index.php
+// Redirige vers index.php
 
 ?>
